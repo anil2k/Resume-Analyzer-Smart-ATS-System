@@ -104,6 +104,4 @@ streamlit run app.py
 
 ---
 
-### 🎯 Transform Your Job Search Today!
-With the **Resume Analyzer Smart ATS System**, get ahead of the competition by optimizing your resume for success. 🌟
 
